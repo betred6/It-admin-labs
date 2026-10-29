@@ -384,3 +384,13 @@ Get-ADPrincipalGroupMembership -Identity "alice.chen" | Select-Object Name
  
 
 
+
+## Screenshots
+
+![testVm overview](screenshots/testvm-overview.png)
+![Domain controller verification](screenshots/domain-controller.png)
+![Organizational units](screenshots/organizational-units.png)
+![Users](screenshots/users.png)
+![Security groups](screenshots/security-groups.png)
+![IT_Admins membership](screenshots/it-admins-membership.png)
+![GPO inheritance for the IT OU](screenshots/gpo-inheritance-it-ou.png)
