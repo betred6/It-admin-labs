@@ -1,0 +1,16 @@
+# Copy this file to terraform.tfvars and replace the two password placeholders
+# with two strong, DIFFERENT passwords you choose yourself.
+# Never commit terraform.tfvars to GitHub — it is in .gitignore.
+
+yourname       = "betre"
+location       = "East US"
+domain_name    = "corp.betre.com"
+domain_netbios = "CORP"
+
+admin_password = "REPLACE-WITH-STRONG-PASSWORD"
+dsrm_password  = "REPLACE-WITH-DIFFERENT-STRONG-PASSWORD"
+
+tags = {
+  project = "terraform-ad-lab"
+  owner   = "betre"
+}
