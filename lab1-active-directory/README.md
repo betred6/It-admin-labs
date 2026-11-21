@@ -1,6 +1,3 @@
-
-
-Readme · MD
 # Lab 1 — Active Directory Domain Services on Windows Server 2025
  
 **Identity & Access Management foundations, built from scratch on a free-tier Azure VM.**
@@ -9,6 +6,9 @@ Readme · MD
 ![Azure](https://img.shields.io/badge/Azure-Free%20Tier-0089D6?logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automated-5391FE?logo=powershell&logoColor=white)
 ![Cost](https://img.shields.io/badge/Cost-%240-success)
+##  🎬 Watch Me Build This Lab!
+
+[![Lab 1 walkthrough — Active Directory on Azure](screenshots/domain-controller.png)](https://www.linkedin.com/feed/update/urn:li:activity/7526632969604644864/)
  
 | Field | Value |
 |---|---|
